@@ -1,6 +1,6 @@
 # TwinStickShooter
 
-Local multiplayer twinstick shooter - developed for Computer and Graphics course.
+Local multiplayer twinstick shooter - developed for Computer graphics and visualization course.
 
 Local multiplayer game with up to 4 players made using three.js and ammo.js without a visual editor for running in browser. Game is to be played with multiple PS4 controllers. 
 
