@@ -2,7 +2,7 @@
 
 Local multiplayer twinstick shooter - developed for Computer and Graphics course.
 
-Local multiplayer game made using three.js and ammo.js without a visual editor for running in browser. Game is to be played with multiple PS4 controllers. 
+Local multiplayer game with up to 4 players made using three.js and ammo.js without a visual editor for running in browser. Game is to be played with multiple PS4 controllers. 
 
 ![ScreenShot](https://github.com/wesleyearlstander/TwinStickShooter/blob/master/TwinStickShooter.PNG)
 
@@ -12,13 +12,13 @@ Local multiplayer game made using three.js and ammo.js without a visual editor f
   • View can be changed with arrow keys 
   • Avatar is animated 
 # Control: 
-  • W is restart 
-  • Works with controllers (left stick move, right stick aim, r1 shoot) 
+  • W (Keyboard) is restart 
+  • Controllers (left stick move, right stick aim, r1 shoot, x is jump) 
   • Arrow keys move camera 
 # Play-ability: 
   • Game wins after killing a 100 zombies 
   • If all player’s die then lose 
-  • X to jump (3d playing) 
+  • Permadeath per player
   • Game is competitive but co-operative 
 # 3D-effects: 
   • Directional light, spot light and ambient light 
