@@ -1,4 +1,4 @@
-# TwinStickShooter
+# Shooting Zombies in Space
 
 Local multiplayer twinstick shooter - developed for Computer graphics and visualization course.
 
